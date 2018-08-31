@@ -1,0 +1,24 @@
+.search {
+  z-index: 1;
+  position: fixed;
+}
+
+.input-field {
+    width: 300px;
+    padding: 10px;
+}
+
+ol {
+    background: #80BD9E;
+    color: white;
+    margin: 0;
+}
+
+.location {
+    cursor: pointer;
+    padding: 2px;
+}
+
+.location:hover {
+    background-color: #89DA59;
+}
